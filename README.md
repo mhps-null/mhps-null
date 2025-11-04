@@ -8,6 +8,7 @@
   Welcome to my GitHub profile! I'm a <strong>Software Engineer</strong> with an interest in <strong>Operating Systems, AI, & Machine Learning</strong>. <br>
   Currently, I'm an Informatics Engineering student at <strong>Institut Teknologi Bandung</strong>. I'm now building my portfolio & learning React!
 </p>
+
 ---
 
 <p align="center">
