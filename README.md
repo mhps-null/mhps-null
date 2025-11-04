@@ -30,3 +30,6 @@
   <a href="https://www.linkedin.com/in/mharisputras"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://x.com/mharisputras"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white" /></a>
 </p>
+
+### Miscellaneous
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
