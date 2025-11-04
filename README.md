@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  Selamat datang di profil GitHub saya! Saya seorang <strong>Software Engineer</strong> dengan minat pada <strong>Operating System, AI, & Machine Learning</strong>. <br>
-  Saat ini, saya adalah Mahasiswa Teknik Informatika di <strong>Institut Teknologi Bandung</strong>. Sekarang saya sedang membangun Porto & belajar React!
+  Welcome to my GitHub profile! I'm a <strong>Software Engineer</strong> with an interest in <strong>Operating Systems, AI, & Machine Learning</strong>. <br>
+  Currently, I'm an Informatics Engineering student at <strong>Institut Teknologi Bandung</strong>. I'm now building my portfolio & learning React!
 </p>
-
 ---
 
 <p align="center">
