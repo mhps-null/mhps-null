@@ -1,4 +1,4 @@
-<h1 align="center">Sampurasun! 👋 Saya Muhammad Haris Putra Sulastianto</h1>
+<h1 align="center">Sampurasun! 👋 I'm Muhammad Haris Putra Sulastianto</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhps-null&style=for-the-badge" alt="Profile Views">
