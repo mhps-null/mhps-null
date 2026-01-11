@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Haris Putra Sulastianto</h1>
 
 <p align="center">
-  Software Engineer & PC Enthusiast
+  Software Engineer · Game Developer · Computer Systems Enthusiast
 </p>
 
 <p align="center">
@@ -21,7 +21,8 @@ My primary interests are:
 - Artificial Intelligence and Machine Learning
 - Technical writing and documentation (LaTeX)
 
-Currently, I am expanding my frontend knowledge with **React** while building a project-focused portfolio.
+Currently, I am expanding my frontend knowledge with React while building
+backend, systems-level, and game development–oriented projects for my portfolio.
 
 ---
 
@@ -39,6 +40,7 @@ Currently, I am expanding my frontend knowledge with **React** while building a 
 - Compilers, toolchains, and runtime systems  
 - Free and Open Source Software (FOSS)  
 - System design and performance-oriented engineering  
+- Game development and real-time systems
 
 ---
 
@@ -61,7 +63,7 @@ Currently, I am expanding my frontend knowledge with **React** while building a 
 ## Tools & Misc
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mhps-null" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </p>
 
 ---
@@ -85,3 +87,6 @@ Currently, I am expanding my frontend knowledge with **React** while building a 
 ## Philosophy
 
 > Build what excites you. Do it well.
+
+<img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge" />
+
