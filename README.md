@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Haris Putra Sulastianto</h1>
 
 <p align="center">
-  Software Engineer · Systems & AI/ML Enthusiast
+  Software Engineer & PC Enthusiast
 </p>
 
 <p align="center">
@@ -84,4 +84,4 @@ Currently, I am expanding my frontend knowledge with **React** while building a 
 
 ## Philosophy
 
-> Build software that is correct, maintainable, and efficient.
+> Build what excites you. Do it well.
