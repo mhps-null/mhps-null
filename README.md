@@ -61,7 +61,7 @@ Currently, I am expanding my frontend knowledge with **React** while building a 
 ## Tools & Misc
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mhps-null" />
 </p>
 
 ---
