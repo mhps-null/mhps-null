@@ -64,6 +64,7 @@ backend, systems-level, and game development–oriented projects for my portfoli
 
 <p align="center">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge" />
 </p>
 
 ---
@@ -87,6 +88,3 @@ backend, systems-level, and game development–oriented projects for my portfoli
 ## Philosophy
 
 > Build what excites you. Do it well.
-
-<img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge" />
-
