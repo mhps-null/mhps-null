@@ -1,94 +1,38 @@
-<h1 align="center">Muhammad Haris Putra Sulastianto</h1>
-
 <p align="center">
-  Software Engineer · Game Developer · Computer Systems Enthusiast
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9qODl0NDc2bDZ0aTlxaW1tbThldHJwdG51Mnl0bWowYXdxdTRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhps-null&style=for-the-badge" alt="Profile Views">
-</p>
+I'm **Muhammad Haris Putra Sulastianto**,
+an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**.
+
+Mainly interested in **Software Engineering**, **Systems Programming**, and **Game Development**.
 
 ---
 
-## About
+### Stats
 
-I am an Informatics Engineering student at  
-**Institut Teknologi Bandung (ITB)**.
-
-My primary interests are:
-- Operating systems and low-level programming
-- Backend engineering and scalable systems
-- Artificial Intelligence and Machine Learning
-- Technical writing and documentation (LaTeX)
-
-Currently, I am expanding my frontend knowledge with React while building
-backend, systems-level, and game development–oriented projects for my portfolio.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhps-null\&layout=compact\&hide_border=true)
 
 ---
 
-## Current Focus
+### Frequently Used Tech Stacks
 
-- Studying operating system internals and system-level concepts  
-- Building backend and full-stack applications  
-- Strengthening fundamentals in systems engineering and software architecture  
+#### Systems Programming & Low-Level
 
----
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,linux\&perline=6)
 
-## Technical Interests
+#### Backend & Software Engineering
 
-- Linux and kernel fundamentals  
-- Compilers, toolchains, and runtime systems  
-- Free and Open Source Software (FOSS)  
-- System design and performance-oriented engineering  
-- Game development and real-time systems
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,go,nodejs,express,fastapi\&perline=6)
 
----
+#### Web Development
 
-## Languages
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,tailwindcss,vite\&perline=6)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhps-null&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
-</p>
+#### Game Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,csharp\&perline=6)
 
----
+### Know me more
 
-## Tools & Misc
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:mharisputras.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mharisputras">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/mharisputras">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Philosophy
-
-> Build what excites you. Do it well.
+**[LinkedIn](https://www.linkedin.com/in/mharisputras) | [X](https://x.com/mharisputras) | [Email](mailto:mharisputras.work@gmail.com)**
