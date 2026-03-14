@@ -15,7 +15,7 @@ Mainly interested in **Software Engineering**, **Systems Programming**, and **Ga
 
 ---
 
-### Frequently Used Tech Stacks
+### Skills
 
 #### Systems Programming & Low-Level
 
@@ -33,6 +33,6 @@ Mainly interested in **Software Engineering**, **Systems Programming**, and **Ga
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,csharp\&perline=6)
 
-### Know me more
+### More about me
 
 **[Peronal Web](https://mhps-null.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/mharisputras) | [X](https://x.com/mharisputras) | [Email](mailto:mharisputras.work@gmail.com)**
