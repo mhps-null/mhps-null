@@ -33,6 +33,6 @@ Mainly interested in **Software Engineering**, **Systems Programming**, and **Ga
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=godot,csharp\&perline=6)
 
-### More about me
+### Check this out
 
-**[Peronal Web](https://mhps-null.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/mharisputras) | [X](https://x.com/mharisputras) | [Email](mailto:mharisputras.work@gmail.com)**
+**[Peronal Web](https://mhps-null.vercel.app/)**
