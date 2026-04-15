@@ -23,11 +23,11 @@ Mainly interested in **Software Engineering**, **Systems Programming**, and **Ga
 
 #### Backend & Software Engineering
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,go,nodejs,express,fastapi,dotnet\&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,go,nodejs,express,fastapi,dotnet\&perline=7)
 
 #### Web Development
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,tailwindcss,vite,docker\&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,tailwindcss,vite,docker\&perline=7)
 
 #### Game Development
 
