@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9qODl0NDc2bDZ0aTlxaW1tbThldHJwdG51Mnl0bWowYXdxdTRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif">
-</p>
-
 I'm **Muhammad Haris Putra Sulastianto**,
 an Informatics Engineering student at **Institut Teknologi Bandung (ITB)**.
 
